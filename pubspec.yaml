@@ -1,0 +1,26 @@
+name: json_2_dartclass
+version: 1.0.0
+author: 尹彬<javierlecuona@gmail.com>
+description: clone with https://github.com/javiercbk/json_to_dart, 增加import和分别输入到文件
+homepage: https://github.com/javiercbk/json_to_dart
+environment:
+  sdk: ">=2.0.0"
+dependencies:
+  convert: "^2.0.1"
+  dart_style: "^1.0.10"
+
+dev_dependencies:
+  test: "^1.3.0"
+  path: "^1.5.1"
+
+transformers:
+- $dart2js:
+    analyzeAll: true
+    checked: true
+    csp: true
+    minify: false
+    sourceMaps: true
+    suppressHints: true
+    suppressWarnings: false
+    terse: true
+    verbose: true
