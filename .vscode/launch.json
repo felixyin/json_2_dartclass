@@ -5,16 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "test",
-            "type": "dart",
-            "request": "launch",
-            "program": "lib/test.dart"
-        },
-        {
             "name": "generate_model_to_files",
             "program": "${workspaceFolder}/example/generate_model_to_files.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "test",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/test.dart"
         },
         {
             "name": "generate_bug_10",
