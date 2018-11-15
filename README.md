@@ -12,7 +12,9 @@ This library is designed to generate Flutter friendly model classes following th
 - Dart automatically casts doubles without decimals (like 10.0) to int. Use doubles with at least one decimal number.
 - Properties named with funky names (like "!breaks", "|breaks", etc) or keyword (like "this", "break", "class", etc) will produce syntax errors.
 
-## 修改内容
+## clone自：https://github.com/javiercbk/json_to_dart 感谢作者的辛苦劳动。
+
+## 增加的内容
 1. 输出class到每个独立dart文件，输出到项目根目录下的json_2_dartclass文件夹
 2. 增加import语句
 
