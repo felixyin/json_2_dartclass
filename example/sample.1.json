@@ -1,0 +1,887 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1172,
+    "items": [
+     {
+      "kind": "books#volume",
+      "id": "aDAZ_cntehoC",
+      "etag": "FWH+O5/qR2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aDAZ_cntehoC",
+      "volumeInfo": {
+       "title": "jQuery",
+       "subtitle": "Visual QuickStart Guide",
+       "authors": [
+        "Steven Holzner"
+       ],
+       "publisher": "Peachpit Press",
+       "publishedDate": "2009-06-30",
+       "description": "jQuery is a popular JavaScript library that simplifies event handling, animating, and Ajax interactions for rapid web development. Many companies are using jQuery including: Amazon, Google, Twitter, Bank of America, BBC, ESPN, CBS News, Digg, Reuters, IBM, Netflix, Dell, Oracle, Slashdot, Tecnorati, and Intuit. Even casual web designers, who create web pages for fun, want to add the latest cool effects to their sites, and jQuery--the fast, flexible JavaScript library--is a tool of choice. Just as CSS separates \"display\" characteristics from the HTML structure, jQuery separates the \"behavior\" characteristics from the HTML structure. From visual effects, special controls, and Ajax made easy, the jQuery Visual QuickStart Guide will teach readers how to make the most of jQuery using the task-based, step-by-step, visual format they love. It's crammed with examples and there's a special section on widgets.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9780321679680"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "0321679687"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 240,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "averageRating": 1.0,
+       "ratingsCount": 1,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "1.6.3.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=aDAZ_cntehoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=aDAZ_cntehoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=aDAZ_cntehoC&printsec=frontcover&dq=jquery&hl=&cd=1&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=aDAZ_cntehoC&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-aDAZ_cntehoC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 23.99,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 14.39,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=aDAZ_cntehoC&rdid=book-aDAZ_cntehoC&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 2.399E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 1.439E7,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=aDAZ_cntehoC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "jQuery is a popular JavaScript library that simplifies event handling, animating, and Ajax interactions for rapid web development."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "n5kDwCotZ1QC",
+      "etag": "cT9OLmA1roc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n5kDwCotZ1QC",
+      "volumeInfo": {
+       "title": "JQuery",
+       "subtitle": "Novice to Ninja",
+       "authors": [
+        "Earle Castledine",
+        "Craig Sharkie"
+       ],
+       "publisher": "SitePoint",
+       "publishedDate": "2012",
+       "description": "Annotation This compilation of best practice jQuery solutions provides a cookbook of ready-to-go suggestions to help breathe life into any web page. It covers topics such as scrolling, animating, backgrounds, crossfaders, menus, buttons and how to write your own jQuery plug-ins.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9780987153074"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "0987153072"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 453,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "averageRating": 4.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "1.1.1.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=n5kDwCotZ1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=n5kDwCotZ1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=n5kDwCotZ1QC&printsec=frontcover&dq=jquery&hl=&cd=2&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=n5kDwCotZ1QC&dq=jquery&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/JQuery.html?hl=&id=n5kDwCotZ1QC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true
+       },
+       "pdf": {
+        "isAvailable": true
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=n5kDwCotZ1QC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Annotation This compilation of best practice jQuery solutions provides a cookbook of ready-to-go suggestions to help breathe life into any web page."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "_uTRAwAAQBAJ",
+      "etag": "rFY48FjsJog",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_uTRAwAAQBAJ",
+      "volumeInfo": {
+       "title": "JavaScript and JQuery",
+       "subtitle": "Interactive Front-End Web Development Hardcover",
+       "authors": [
+        "Jon Duckett"
+       ],
+       "publisher": "John Wiley & Sons",
+       "publishedDate": "2014-07-21",
+       "description": "This book covers: 1. Basic programming concepts - assuming no prior knowledge of programming beyond an ability to create a web page using HTML & CSS ; 2. Core elements of the JavaScript language - so you can learn how to write your own scripts from scratch ; 3. jQuery - which will allow you to simplify the process of writing scripts (this is introduced half-way through the book once you have a solid understanding of JavaScript) ; 4. How to recreate techniques you will have seen on other web sites such as sliders, content filters, form validation, updating content using Ajax, and more. Each chapter: Breaks subjects down into bite-sized chunks with a new topic on each page ; Contains clear descriptions of syntax, each one demonstrated with inspiring code samples ; Uses diagrams and photography to explain complex concepts in a visual way. This book enables you to use & customize thousands of scripts, JavaScript APIs, and jQuery plugins that are freely available on the web as well as create your own scripts from scratch.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781118871652"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1118871650"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": true
+       },
+       "pageCount": 640,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "0.1.0.0.preview.1",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=_uTRAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=_uTRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=_uTRAwAAQBAJ&printsec=frontcover&dq=jquery&hl=&cd=3&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=_uTRAwAAQBAJ&dq=jquery&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_and_JQuery.html?hl=&id=_uTRAwAAQBAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=_uTRAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "This book covers: 1."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "mMIZvgTQFOsC",
+      "etag": "pAWc496XGQo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mMIZvgTQFOsC",
+      "volumeInfo": {
+       "title": "Professional jQuery",
+       "authors": [
+        "Cesar Otero",
+        "Rob Larsen"
+       ],
+       "publisher": "John Wiley & Sons",
+       "publishedDate": "2012-03-20",
+       "description": "jQuery is one of the hottest emerging web development technologies. Fully supported by Microsoft, Google, and a who's who list of companies and platforms, it simplifies the development of standards-based interactive websites. This bookprovides a complete, in- depth look at jQuery and related technologies, providing you with a single source of all the information you need to maximize your web development skills. As the book progresses, it delves deeper into other topics, providing lessons and examples to accomplish tasks common to both basic and advanced web development techniques.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781118235928"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1118235924"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 456,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "averageRating": 4.0,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "0.7.7.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=mMIZvgTQFOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=mMIZvgTQFOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=mMIZvgTQFOsC&printsec=frontcover&dq=jquery&hl=&cd=4&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=mMIZvgTQFOsC&dq=jquery&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Professional_jQuery.html?hl=&id=mMIZvgTQFOsC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Professional_jQuery-sample-epub.acsm?id=mMIZvgTQFOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Professional_jQuery-sample-pdf.acsm?id=mMIZvgTQFOsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=mMIZvgTQFOsC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "This book gives you the hard-core jQuery chops you&#39;ll need to solve whatever problems the web throws at you. It focuses on the core library and how to integrate jQuery into your web pages."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "o92pure4rusC",
+      "etag": "HLo/LpeG7co",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o92pure4rusC",
+      "volumeInfo": {
+       "title": "Jquery for Designers",
+       "subtitle": "Beginner's Guide",
+       "authors": [
+        "Natalie MacLees"
+       ],
+       "publisher": "Packt Publishing Ltd",
+       "publishedDate": "2012-01-01",
+       "description": "Part of Packt's Beginner's Guide series, each chapter focuses on a specific part of your website and how to improve its design with the use of jQuery. There are plenty of screenshots and practical step-by-step instructions making it easy to apply jQuery to your site. This book is for designers who have the basics of HTML and CSS, but want to extend their knowledge by learning to use JavaScript and jQuery.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781849516716"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1849516715"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 332,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "2.5.5.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=o92pure4rusC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=o92pure4rusC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=o92pure4rusC&printsec=frontcover&dq=jquery&hl=&cd=5&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=o92pure4rusC&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-o92pure4rusC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 23.99,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 14.59,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=o92pure4rusC&rdid=book-o92pure4rusC&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 2.399E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 1.459E7,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true
+       },
+       "pdf": {
+        "isAvailable": true
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=o92pure4rusC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "This book is for designers who have the basics of HTML and CSS, but want to extend their knowledge by learning to use JavaScript and jQuery."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "L9otyT4crSQC",
+      "etag": "eBauyuNTkl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L9otyT4crSQC",
+      "volumeInfo": {
+       "title": "Beginning JavaScript and CSS Development with jQuery",
+       "authors": [
+        "Richard York"
+       ],
+       "publisher": "John Wiley & Sons",
+       "publishedDate": "2011-02-09",
+       "description": "This book covers the jQuery JavaScript framework and the jQuery UI JavaScript framework to get more results faster out of JavaScript programming. The author covers each method exposed by jQuerys API, which contains methods to resolve common, redundant tasks in less code. You will also learn how jQuery eliminates certain cross-browser, cross-platform development headaches like the event model. In addition to giving you the ability to simulate events, this book also helps simplify your work with events by reducing the amount of code that you need to write to attach events.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781118059500"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1118059506"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 560,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "averageRating": 2.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "0.11.6.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=L9otyT4crSQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=L9otyT4crSQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=L9otyT4crSQC&printsec=frontcover&dq=jquery&hl=&cd=6&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=L9otyT4crSQC&dq=jquery&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_JavaScript_and_CSS_Development.html?hl=&id=L9otyT4crSQC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Beginning_JavaScript_and_CSS_Development-sample-epub.acsm?id=L9otyT4crSQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Beginning_JavaScript_and_CSS_Development-sample-pdf.acsm?id=L9otyT4crSQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=L9otyT4crSQC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "This book covers the jQuery JavaScript framework and the jQuery UI JavaScript framework to get more results faster out of JavaScript programming."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "7kfyzf2BnP0C",
+      "etag": "okVz9BKNb0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7kfyzf2BnP0C",
+      "volumeInfo": {
+       "title": "jQuery Cookbook",
+       "subtitle": "Solutions & Examples for jQuery Developers",
+       "authors": [
+        "Cody Lindley"
+       ],
+       "publisher": "\"O'Reilly Media, Inc.\"",
+       "publishedDate": "2009-11-09",
+       "description": "jQuery simplifies building rich, interactive web frontends. Getting started with this JavaScript library is easy, but it can take years to fully realize its breadth and depth; this cookbook shortens the learning curve considerably. With these recipes, you'll learn patterns and practices from 19 leading developers who use jQuery for everything from integrating simple components into websites and applications to developing complex, high-performance user interfaces. Ideal for newcomers and JavaScript veterans alike, jQuery Cookbook starts with the basics and then moves to practical use cases with tested solutions to common web development hurdles. You also get recipes on advanced topics, such as methods for applying jQuery to large projects. Solve problems involving events, effects, dimensions, forms, themes, and user interface elements Learn how to enhance your forms, and how to position and reposition elements on a page Make the most of jQuery's event management system, including custom events and custom event data Create UI elements-such as tabs, accordions, and modals-from scratch Optimize your code to eliminate bottlenecks and ensure peak performance Learn how to test your jQuery applications The book's contributors include: Cody Lindley James Padolsey Ralph Whitbeck Jonathan Sharp Michael Geary and Scott González Rebecca Murphey Remy Sharp Ariel Flesler Brian Cherne Jörn Zaefferer Mike Hostetler Nathan Smith Richard D. Worth Maggie Wachs, Scott Jehl, Todd Parker, and Patty Toland Rob Burns",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781449383015"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1449383017"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 480,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "averageRating": 4.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "0.5.4.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=7kfyzf2BnP0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7kfyzf2BnP0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=7kfyzf2BnP0C&printsec=frontcover&dq=jquery&hl=&cd=7&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=7kfyzf2BnP0C&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-7kfyzf2BnP0C"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 27.99,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 15.39,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=7kfyzf2BnP0C&rdid=book-7kfyzf2BnP0C&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 2.799E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 1.539E7,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true
+       },
+       "pdf": {
+        "isAvailable": true
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=7kfyzf2BnP0C&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Solve problems involving events, effects, dimensions, forms, themes, and user interface elements Learn how to enhance your forms, and how to position and reposition elements on a page Make the most of jQuery&#39;s event management system, ..."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "qPCCUdDefdkC",
+      "etag": "Hb/5UhzMP9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qPCCUdDefdkC",
+      "volumeInfo": {
+       "title": "jQuery Pocket Reference",
+       "subtitle": "Read Less, Learn More",
+       "authors": [
+        "David Flanagan"
+       ],
+       "publisher": "\"O'Reilly Media, Inc.\"",
+       "publishedDate": "2010-12-09",
+       "description": "\"As someone who uses jQuery on a regular basis, it was surprising to discover how much of the library I’m not using. This book is indispensable for anyone who is serious about using jQuery for non-trivial applications.\"-- Raffaele Cecco, longtime developer of video games, including Cybernoid, Exolon, and Stormlord jQuery is the \"write less, do more\" JavaScript library. Its powerful features and ease of use have made it the most popular client-side JavaScript framework for the Web. Ideal for JavaScript developers at all skill levels, this book is jQuery's trusty companion: the definitive \"read less, learn more\" guide to the library. jQuery Pocket Reference explains everything you need to know about jQuery, completely and comprehensively. You'll learn how to: Select and manipulate document elements Alter document structure Handle and trigger events Create visual effects and animations Script HTTP with Ajax utilities Use jQuery's selectors and selection methods, utilities, plugins and more The 25-page quick reference summarizes the library, listing all jQuery methods and functions, with signatures and descriptions.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "1449302777"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9781449302771"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 160,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "0.4.5.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=qPCCUdDefdkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qPCCUdDefdkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=qPCCUdDefdkC&printsec=frontcover&dq=jquery&hl=&cd=8&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=qPCCUdDefdkC&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-qPCCUdDefdkC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE_AND_RENTAL",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 10.99,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 8.79,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=qPCCUdDefdkC&rdid=book-qPCCUdDefdkC&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 1.099E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 8790000.0,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        },
+        {
+         "finskyOfferType": 3,
+         "listPrice": {
+          "amountInMicros": 2750000.0,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 2750000.0,
+          "currencyCode": "USD"
+         },
+         "rentalDuration": {
+          "unit": "HOUR",
+          "count": 24.0
+         }
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true
+       },
+       "pdf": {
+        "isAvailable": true
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=qPCCUdDefdkC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Ideal for JavaScript developers at all skill levels, this book is jQuery&#39;s trusty companion: the definitive &quot;read less, learn more&quot; guide to the library. jQuery Pocket Reference explains everything you need to know about jQuery, completely ..."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "PyWFCwAAQBAJ",
+      "etag": "/4hQyC+ZO8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PyWFCwAAQBAJ",
+      "volumeInfo": {
+       "title": "Pro PHP and jQuery",
+       "authors": [
+        "Keith Wald",
+        "Jason Lengstorf"
+       ],
+       "publisher": "Apress",
+       "publishedDate": "2016-02-01",
+       "description": "Take advantage of the improved performance and reduced memory requirements of PHP version 7, and learn to utilize the new built-in PHP functions and features such as typed variable enforcement with declare(strict_types=1) and the new available data types, scalar type declarations for function arguments and return statements, constant arrays using define(), argument unpacking with the ... operator, integer division with intdiv(), the null coalesce operator, the spaceship operator, new exception types, and improvements to existing features. Pro PHP and jQuery, Second Edition is for intermediate level programmers interested in building web applications using jQuery and PHP. Updated for PHP version 7 and the latest version of jQuery, this book teaches some advanced PHP techniques and it shows you how to take your dynamic applications to the next level by adding a JavaScript layer using the jQuery framework and APIs. After reading and using this book, you'll come away having built a fully functional PHP and jQuery web application that you can reapply as a template for your own particular web application. Pro PHP and jQuery, Second Edition is for intermediate level programmers interested in building web applications using jQuery and PHP. Updated for PHP version 7 and the latest version of jQuery, this book teaches some advanced PHP techniques and it shows you how to take your dynamic applications to the next level by adding a JavaScript layer using the jQuery framework and APIs, considered the most popular JavaScript libraries. After reading and using this book, you'll come away understanding a fully functional PHP using jQuery web application case study that you can reapply as a template for your own particular web application. Moreover, from PHP 7, you'll get uniform variable syntax, the AST-based compilation process, the added Closure::call(), bitwise shift consistency across platforms, the (null coalesce) operator, Unicode codepoint escape syntax, return type declarations, and new and easier extensions development with support for redis, MongoDB and much more.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781484212301"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1484212304"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 370,
+       "printType": "BOOK",
+       "categories": [
+        "Computers"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "1.2.2.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=PyWFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=PyWFCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=PyWFCwAAQBAJ&printsec=frontcover&dq=jquery&hl=&cd=9&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=PyWFCwAAQBAJ&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-PyWFCwAAQBAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 49.99,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 39.49,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=PyWFCwAAQBAJ&rdid=book-PyWFCwAAQBAJ&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 4.999E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 3.949E7,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Pro_PHP_and_jQuery-sample-epub.acsm?id=PyWFCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Pro_PHP_and_jQuery-sample-pdf.acsm?id=PyWFCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=PyWFCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "After reading and using this book, you&#39;ll come away having built a fully functional PHP and jQuery web application that you can reapply as a template for your own particular web application."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "Hwd7DKKdzAUC",
+      "etag": "ApW08pVrXvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hwd7DKKdzAUC",
+      "volumeInfo": {
+       "title": "JQuery UI",
+       "authors": [
+        "Eric Sarrion"
+       ],
+       "publisher": "\"O'Reilly Media, Inc.\"",
+       "publishedDate": "2012",
+       "description": "Explores how to use jQuery to enrich websites; improve HTML pages and interface design; and create interactive elements, widgets, and animation.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781449316990"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1449316999"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": true
+       },
+       "pageCount": 225,
+       "printType": "BOOK",
+       "categories": [
+        "COMPUTERS"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "preview-1.0.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Hwd7DKKdzAUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Hwd7DKKdzAUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=Hwd7DKKdzAUC&printsec=frontcover&dq=jquery&hl=&cd=10&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=Hwd7DKKdzAUC&dq=jquery&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/JQuery_UI.html?hl=&id=Hwd7DKKdzAUC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=Hwd7DKKdzAUC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Explores how to use jQuery to enrich websites; improve HTML pages and interface design; and create interactive elements, widgets, and animation."
+      }
+     }
+    ]
+   }

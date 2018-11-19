@@ -1,30 +1,27 @@
-import 'items.dart';
-
 class Sample {
-  String kind;
-  int totalItems;
-  List<Items> items;
+  int albumId;
+  int id;
+  String title;
+  String url;
+  String thumbnailUrl;
 
-  Sample({this.kind, this.totalItems, this.items});
+  Sample({this.albumId, this.id, this.title, this.url, this.thumbnailUrl});
 
   Sample.fromJson(Map<String, dynamic> json) {
-    kind = json['kind'];
-    totalItems = json['totalItems'];
-    if (json['items'] != null) {
-      items = new List<Items>();
-      json['items'].forEach((v) {
-        items.add(new Items.fromJson(v));
-      });
-    }
+    albumId = json['albumId'];
+    id = json['id'];
+    title = json['title'];
+    url = json['url'];
+    thumbnailUrl = json['thumbnailUrl'];
   }
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['kind'] = this.kind;
-    data['totalItems'] = this.totalItems;
-    if (this.items != null) {
-      data['items'] = this.items.map((v) => v.toJson()).toList();
-    }
+    data['albumId'] = this.albumId;
+    data['id'] = this.id;
+    data['title'] = this.title;
+    data['url'] = this.url;
+    data['thumbnailUrl'] = this.thumbnailUrl;
     return data;
   }
 }
